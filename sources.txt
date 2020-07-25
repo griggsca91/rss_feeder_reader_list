@@ -1,0 +1,2 @@
+https://hnrss.org/newest
+https://reddit.com/r/programming/.rss
